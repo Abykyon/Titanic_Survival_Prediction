@@ -1,0 +1,17 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.pyc
+.DS_Store
+
+# Titanic dataset files
+Titanic-Dataset.csv
+archive.zip
+gender_submission.csv
+train.csv
+test.csv
+
+# Kaggle submission
+submission.csv
